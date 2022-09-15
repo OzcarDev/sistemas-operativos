@@ -8,3 +8,8 @@ En este repositorio se almacenan las prácticas de la materia "Sistemas Operativ
 - [Práctica 2](./Practica2.md)
 - [Práctica 4](https://github.com/OzcarDev/practica4)
 - [Práctica 8](Practica8.md)
+ 
+ ## Prácticas parcial 2
+
+ - [Práctica 1](https://github.com/OzcarDev/Parcial2-Practica1)
+
