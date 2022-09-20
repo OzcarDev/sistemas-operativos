@@ -13,3 +13,4 @@ En este repositorio se almacenan las prácticas de la materia "Sistemas Operativ
 
  - [Práctica 1](https://github.com/OzcarDev/Parcial2-Practica1)
 
+Creando la versión 1.0.0 de este repositorio

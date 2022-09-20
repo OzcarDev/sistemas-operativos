@@ -1,0 +1,103 @@
+commit 0a515f93423e23330e12c4a9d534997d5f26d9fe
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Thu Sep 15 09:56:55 2022 -0500
+
+    Añadiendo Práctica 1 del parcial 2
+
+commit 2408209961f044528832676c85568e539d0b7914
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:38:39 2022 -0500
+
+    Cambio en index.html
+
+commit 332611392dae4a94e27750224466d9f64de5ea0a
+Merge: 02463c3 b54ddba
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:34:45 2022 -0500
+
+    Merge branch 'js'
+
+commit 02463c3738c979f10745d10f4db3ed65128dafa6
+Merge: 1f522a1 ba26edd
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:34:03 2022 -0500
+
+    Resolviendo conflictos de fusión main-css
+
+commit 1f522a132fdaf3595ee027db34554a485af4583d
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:28:45 2022 -0500
+
+    Modificando index.html desde main
+
+commit ba26eddea9c990795e22542012c68d481066289c
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:26:04 2022 -0500
+
+    Agregando info al index.html desde la rama css
+
+commit b54ddba528f919c9e73c25e0b6e04b64842fd0e4
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:08:25 2022 -0500
+
+    Creando archivo script.js desde la rama js
+
+commit 103eefa1a33e9f82f6abc91ece06053f3338218b
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 10:03:58 2022 -0500
+
+    Creando archivo style.css desde la rama css
+
+commit 9070ea601da718be7bdd218e44c59702c10b5a0d
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 09:50:00 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit 79cbd0ad21cbbb657db44314f9c9999d9f5488ae
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 09:36:44 2022 -0500
+
+    Cambio de prueba
+
+commit 3040fbf3294f17e377890b5352c520309282088a
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 13 09:32:58 2022 -0500
+
+    Cambio de prueba
+
+commit eb7267d0728b17ad4d80cacad19af79366093ba9
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Wed Sep 7 20:34:11 2022 -0500
+
+    Agregando enlace y contenido de la práctica 8
+
+commit 605c9c8c2cd5a85caea9b4c21a333d13599e3ed1
+Author: OzcarDev <100314800+OzcarDev@users.noreply.github.com>
+Date:   Tue Sep 6 10:43:39 2022 -0500
+
+    Agregando licencia
+
+commit 934ec6afca7513ab7a43a2e13707e79c0c40c3e6
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 6 10:41:45 2022 -0500
+
+    Agregando gitignore
+
+commit 464824950d758ab3ca2cf677f17411bf7d3088b4
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Tue Sep 6 09:36:37 2022 -0500
+
+    Agregando enlace de la práctica 4
+
+commit 2c763cd407fdf98c66a1d93f286d5a4e05f6fe55
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Thu Sep 1 10:51:10 2022 -0500
+
+    Cambio de prueba
+
+commit 2969fd2e501e7efb67875e43dc3b7bb369303e57
+Author: OzcarDev <osja1601@gmail.com>
+Date:   Thu Sep 1 10:44:12 2022 -0500
+
+    Primer commit, creando mi primer repositorio
